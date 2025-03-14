@@ -1,0 +1,818 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><MPD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:mpeg:dash:schema:mpd:2011" xsi:schemaLocation="urn:mpeg:dash:schema:mpd:2011" profiles="urn:mpeg:dash:profile:isoff-live:2011" type="static" mediaPresentationDuration="PT1H25M18S" minBufferTime="PT4S" xmlns:cenc="urn:mpeg:cenc:2013" xmlns:mspr="urn:microsoft:playready">
+<Period start="PT0S" duration="PT1H25M18S">
+<AdaptationSet mimeType="video/mp4" id="1" segmentAlignment="true">
+<ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="D48D4C41-999D-4309-A02F-6DDFA866DD30"></ContentProtection>
+<ContentProtection schemeIdUri="urn:uuid:9A04F079-9840-4286-AB92-E65BE0885F95" value="2.0" cenc:default_KID="D48D4C41-999D-4309-A02F-6DDFA866DD30">
+<mspr:pro>dgMAAAEAAQBsAzwAVwBSAE0ASABFAEEARABFAFIAIAB4AG0AbABuAHMAPQAiAGgAdAB0AHAAOgAvAC8AcwBjAGgAZQBtAGEAcwAuAG0AaQBjAHIAbwBzAG8AZgB0AC4AYwBvAG0ALwBEAFIATQAvADIAMAAwADcALwAwADMALwBQAGwAYQB5AFIAZQBhAGQAeQBIAGUAYQBkAGUAcgAiACAAdgBlAHIAcwBpAG8AbgA9ACIANAAuADAALgAwAC4AMAAiAD4APABEAEEAVABBAD4APABQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEsARQBZAEwARQBOAD4AMQA2ADwALwBLAEUAWQBMAEUATgA+ADwAQQBMAEcASQBEAD4AQQBFAFMAQwBUAFIAPAAvAEEATABHAEkARAA+ADwALwBQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEsASQBEAD4AUQBVAHkATgAxAEoAMgBaAEMAVQBPAGcATAAyADMAZgBxAEcAYgBkAE0AQQA9AD0APAAvAEsASQBEAD4APABMAEEAXwBVAFIATAA+AGgAdAB0AHAAOgAvAC8AcABsAGEAeQByAGUAYQBkAHkALgBkAHIAbQBrAGUAeQBzAGUAcgB2AGUAcgAuAGMAbwBtAC8AcABsAGEAeQByAGUAYQBkAHkALwByAGkAZwBoAHQAcwBtAGEAbgBhAGcAZQByAC4AYQBzAG0AeAA8AC8ATABBAF8AVQBSAEwAPgA8AEMAVQBTAFQATwBNAEEAVABUAFIASQBCAFUAVABFAFMAIAB4AG0AbABuAHMAPQAiACIAPgA8AEMATwBOAFQARQBOAFQASQBEAD4ANwA1ADAANAAxAEYANQBGAC0AMwAxADcAOAAtAEEANQA0AEIALQA5ADYANwBEAC0ARAA4AEMAQwA3AEYAQgAwAEIAOQBGAEEAPAAvAEMATwBOAFQARQBOAFQASQBEAD4APAAvAEMAVQBTAFQATwBNAEEAVABUAFIASQBCAFUAVABFAFMAPgA8AEMASABFAEMASwBTAFUATQA+AG0AWAB2AEsAaABjAEgAUABNAFUAcwA9ADwALwBDAEgARQBDAEsAUwBVAE0APgA8AC8ARABBAFQAQQA+ADwALwBXAFIATQBIAEUAQQBEAEUAUgA+AA==</mspr:pro>
+</ContentProtection>
+<ContentProtection schemeIdUri="urn:uuid:EDEF8BA9-79D6-4ACE-A3C8-27DCD51D21ED" value="2.0" cenc:default_KID="D48D4C41-999D-4309-A02F-6DDFA866DD30">
+<cenc:pssh>AAAAWHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAADgSENSNTEGZnUMJoC9t36hm3TAaDHZlcnNlZGlnaXRhbCIQdQQfXzF4pUuWfdjMf7C5+kjj3JWbBg==</cenc:pssh>
+</ContentProtection>
+<SegmentTemplate timescale="90000" media="$RepresentationID$/$Time$.m4s" initialization="$RepresentationID$/init.mp4">
+<SegmentTimeline>
+<S t="0" d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="3"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="3"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="3"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="3"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="3"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="3"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="3"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="3"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="3"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="3"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="3"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="3"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="3"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="3"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="3"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="3"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="3"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="3"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="3"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="3"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="3"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="3"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="3"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="3"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="3"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="3"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="3"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="3"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="3"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="3"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="3"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="3"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="3"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="3"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="3"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="3"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="3"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="3"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="3"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="3"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="3"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="3"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="3"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="3"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="3"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="3"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="3"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="3"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="3"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="3"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="3"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="3"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="3"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="3"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="3"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="3"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="3"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="3"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="3"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="3"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="3"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="3"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="3"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="3"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="3"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="3"></S>
+<S d="537537"></S>
+<S d="540540" r="4"></S>
+<S d="537537"></S>
+<S d="540540" r="3"></S>
+<S d="537537"></S>
+<S d="540540" r="1"></S>
+<S d="18018"></S>
+</SegmentTimeline>
+</SegmentTemplate>
+<Representation width="1920" height="1080" mimeType="video/mp4" codecs="avc1.640032" startWithSAP="1" id="0" bandwidth="8692224"></Representation>
+<Representation width="1280" height="720" mimeType="video/mp4" codecs="avc1.640028" startWithSAP="1" id="1" bandwidth="4725120"></Representation>
+<Representation width="1280" height="720" mimeType="video/mp4" codecs="avc1.640028" startWithSAP="1" id="2" bandwidth="2516566"></Representation>
+<Representation width="960" height="540" mimeType="video/mp4" codecs="avc1.64001f" startWithSAP="1" id="3" bandwidth="1501962"></Representation>
+</AdaptationSet>
+<AdaptationSet mimeType="audio/mp4" id="2" lang="eng" segmentAlignment="true">
+<ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="D48D4C41-999D-4309-A02F-6DDFA866DD30"></ContentProtection>
+<ContentProtection schemeIdUri="urn:uuid:9A04F079-9840-4286-AB92-E65BE0885F95" value="2.0" cenc:default_KID="D48D4C41-999D-4309-A02F-6DDFA866DD30">
+<mspr:pro>dgMAAAEAAQBsAzwAVwBSAE0ASABFAEEARABFAFIAIAB4AG0AbABuAHMAPQAiAGgAdAB0AHAAOgAvAC8AcwBjAGgAZQBtAGEAcwAuAG0AaQBjAHIAbwBzAG8AZgB0AC4AYwBvAG0ALwBEAFIATQAvADIAMAAwADcALwAwADMALwBQAGwAYQB5AFIAZQBhAGQAeQBIAGUAYQBkAGUAcgAiACAAdgBlAHIAcwBpAG8AbgA9ACIANAAuADAALgAwAC4AMAAiAD4APABEAEEAVABBAD4APABQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEsARQBZAEwARQBOAD4AMQA2ADwALwBLAEUAWQBMAEUATgA+ADwAQQBMAEcASQBEAD4AQQBFAFMAQwBUAFIAPAAvAEEATABHAEkARAA+ADwALwBQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEsASQBEAD4AUQBVAHkATgAxAEoAMgBaAEMAVQBPAGcATAAyADMAZgBxAEcAYgBkAE0AQQA9AD0APAAvAEsASQBEAD4APABMAEEAXwBVAFIATAA+AGgAdAB0AHAAOgAvAC8AcABsAGEAeQByAGUAYQBkAHkALgBkAHIAbQBrAGUAeQBzAGUAcgB2AGUAcgAuAGMAbwBtAC8AcABsAGEAeQByAGUAYQBkAHkALwByAGkAZwBoAHQAcwBtAGEAbgBhAGcAZQByAC4AYQBzAG0AeAA8AC8ATABBAF8AVQBSAEwAPgA8AEMAVQBTAFQATwBNAEEAVABUAFIASQBCAFUAVABFAFMAIAB4AG0AbABuAHMAPQAiACIAPgA8AEMATwBOAFQARQBOAFQASQBEAD4ANwA1ADAANAAxAEYANQBGAC0AMwAxADcAOAAtAEEANQA0AEIALQA5ADYANwBEAC0ARAA4AEMAQwA3AEYAQgAwAEIAOQBGAEEAPAAvAEMATwBOAFQARQBOAFQASQBEAD4APAAvAEMAVQBTAFQATwBNAEEAVABUAFIASQBCAFUAVABFAFMAPgA8AEMASABFAEMASwBTAFUATQA+AG0AWAB2AEsAaABjAEgAUABNAFUAcwA9ADwALwBDAEgARQBDAEsAUwBVAE0APgA8AC8ARABBAFQAQQA+ADwALwBXAFIATQBIAEUAQQBEAEUAUgA+AA==</mspr:pro>
+</ContentProtection>
+<ContentProtection schemeIdUri="urn:uuid:EDEF8BA9-79D6-4ACE-A3C8-27DCD51D21ED" value="2.0" cenc:default_KID="D48D4C41-999D-4309-A02F-6DDFA866DD30">
+<cenc:pssh>AAAAWHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAADgSENSNTEGZnUMJoC9t36hm3TAaDHZlcnNlZGlnaXRhbCIQdQQfXzF4pUuWfdjMf7C5+kjj3JWbBg==</cenc:pssh>
+</ContentProtection>
+<SegmentTemplate timescale="90000" media="$RepresentationID$/$Time$.m4s" initialization="$RepresentationID$/init.mp4">
+<SegmentTimeline>
+<S t="0" d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="539520" r="2"></S>
+<S d="541440"></S>
+<S d="21120"></S>
+</SegmentTimeline>
+</SegmentTemplate>
+<Representation mimeType="audio/mp4" codecs="mp4a.40.2" startWithSAP="1" id="4" bandwidth="207110">
+<AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"></AudioChannelConfiguration>
+</Representation>
+</AdaptationSet>
+<AdaptationSet mimeType="application/mp4" id="3" lang="ko" segmentAlignment="true">
+<Role schemeIdUri="urn:mpeg:dash:role:2011" value="subtitle"></Role>
+<SegmentTemplate timescale="90000" media="$RepresentationID$/$Time$.m4s" initialization="$RepresentationID$/init.mp4">
+<SegmentTimeline>
+<S t="0" d="540000" r="853"></S>
+</SegmentTimeline>
+</SegmentTemplate>
+<Representation mimeType="application/mp4" codecs="stpp" startWithSAP="1" id="5" bandwidth="1118"></Representation>
+</AdaptationSet>
+<AdaptationSet mimeType="application/mp4" id="4" lang="en" segmentAlignment="true">
+<Role schemeIdUri="urn:mpeg:dash:role:2011" value="subtitle"></Role>
+<SegmentTemplate timescale="90000" media="$RepresentationID$/$Time$.m4s" initialization="$RepresentationID$/init.mp4">
+<SegmentTimeline>
+<S t="0" d="540000" r="853"></S>
+</SegmentTimeline>
+</SegmentTemplate>
+<Representation mimeType="application/mp4" codecs="stpp" startWithSAP="1" id="6" bandwidth="1053"></Representation>
+</AdaptationSet>
+<AdaptationSet mimeType="application/mp4" id="5" lang="ja" segmentAlignment="true">
+<Role schemeIdUri="urn:mpeg:dash:role:2011" value="subtitle"></Role>
+<SegmentTemplate timescale="90000" media="$RepresentationID$/$Time$.m4s" initialization="$RepresentationID$/init.mp4">
+<SegmentTimeline>
+<S t="0" d="540000" r="853"></S>
+</SegmentTimeline>
+</SegmentTemplate>
+<Representation mimeType="application/mp4" codecs="stpp" startWithSAP="1" id="7" bandwidth="1152"></Representation>
+</AdaptationSet>
+<AdaptationSet mimeType="application/mp4" id="6" lang="zh-CN" segmentAlignment="true">
+<Role schemeIdUri="urn:mpeg:dash:role:2011" value="subtitle"></Role>
+<SegmentTemplate timescale="90000" media="$RepresentationID$/$Time$.m4s" initialization="$RepresentationID$/init.mp4">
+<SegmentTimeline>
+<S t="0" d="540000" r="853"></S>
+</SegmentTimeline>
+</SegmentTemplate>
+<Representation mimeType="application/mp4" codecs="stpp" startWithSAP="1" id="8" bandwidth="1060"></Representation>
+</AdaptationSet>
+<AdaptationSet mimeType="application/mp4" id="7" lang="zh-TW" segmentAlignment="true">
+<Role schemeIdUri="urn:mpeg:dash:role:2011" value="subtitle"></Role>
+<SegmentTemplate timescale="90000" media="$RepresentationID$/$Time$.m4s" initialization="$RepresentationID$/init.mp4">
+<SegmentTimeline>
+<S t="0" d="540000" r="853"></S>
+</SegmentTimeline>
+</SegmentTemplate>
+<Representation mimeType="application/mp4" codecs="stpp" startWithSAP="1" id="9" bandwidth="1060"></Representation>
+</AdaptationSet>
+</Period>
+</MPD>
